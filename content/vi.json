@@ -1,0 +1,174 @@
+{
+  "title": "Chính sách quyền riêng tư — PlatePrivacy",
+  "updatedLabel": "Cập nhật lần cuối: 26 tháng 8 năm 2026",
+  "footer": "© 2026 Pavel Palityka · PlatePrivacy",
+  "fallbackNotice": "",
+  "sections": [
+    {
+      "title": "Giới thiệu",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Chính sách quyền riêng tư này giải thích cách <strong>PlatePrivacy</strong> (ứng dụng di động “PlatePrivacy” / “PlatePrivacy Pro”, gói <code>com.palityka.plateprivacy</code>) xử lý thông tin khi bạn dùng ứng dụng trên Android."
+        },
+        {
+          "type": "p",
+          "html": "PlatePrivacy làm mờ biển số trên ảnh và video bằng blur, pixel hoặc màu đặc. Xử lý chạy <strong>trên thiết bị của bạn</strong>. Ứng dụng <strong>không</strong> yêu cầu tài khoản và <strong>không</strong> tải ảnh/video lên máy chủ của chúng tôi."
+        }
+      ]
+    },
+    {
+      "title": "Đơn vị kiểm soát dữ liệu",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "<strong>Đơn vị kiểm soát:</strong> Pavel Palityka<br><strong>Liên hệ:</strong> <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>"
+        }
+      ]
+    },
+    {
+      "title": "Thông tin ứng dụng xử lý",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Tùy cách bạn dùng PlatePrivacy, các loại dữ liệu sau có thể được xử lý:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Ảnh và video trên thiết bị</strong> — tệp bạn chọn, chia sẻ hoặc quay. Được đọc và xử lý cục bộ. Chúng tôi không nhận bản sao.",
+            "<strong>Dữ liệu phát hiện khuôn mặt</strong> — hộp và metadata chỉ trên thiết bị. Mô hình ONNX cục bộ (LPD-YuNet). Không gửi cho chúng tôi.",
+            "<strong>Cài đặt và danh sách gần đây</strong> — chủ đề, ngôn ngữ, kiểu mặt nạ và danh sách công việc gần đây trên thiết bị.",
+            "<strong>Chụp/quay bằng camera</strong> — ảnh hoặc video từ camera trong app được lưu trong bộ nhớ đệm thiết bị để chỉnh sửa.",
+            "<strong>Trạng thái mua</strong> — đã mở PlatePrivacy Pro qua Google Play hay chưa. Google xác minh; trên thiết bị chỉ lưu cờ Pro.",
+            "<strong>Dữ liệu quảng cáo (bản miễn phí)</strong> — Appodeal và mạng quảng cáo có thể thu thập GAID, IP và dữ liệu tương tác quảng cáo (xem Bên thứ ba)."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "Chúng tôi <strong>không</strong> cố ý thu thập tên, email hay số điện thoại qua chính ứng dụng, trừ khi bạn gửi email cho chúng tôi."
+        }
+      ]
+    },
+    {
+      "title": "Quyền Android",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Ứng dụng có thể yêu cầu các quyền cần cho tính năng:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Đọc ảnh / video</strong> — mở ảnh và video bạn chọn.",
+            "<strong>Camera</strong> — tùy chọn chụp/quay để chỉnh sửa.",
+            "<strong>Internet & trạng thái mạng</strong> — quảng cáo (bản miễn phí) và Google Play.",
+            "<strong>Thông báo & dịch vụ foreground</strong> — tiến độ khi xử lý lâu ở nền và báo khi xong.",
+            "<strong>ID quảng cáo</strong> — dùng bởi đối tác quảng cáo bản miễn phí."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "Bạn có thể thu hồi quyền trong cài đặt Android; một số tính năng có thể ngừng hoạt động."
+        }
+      ]
+    },
+    {
+      "title": "Chúng tôi dùng thông tin như thế nào",
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "Phát hiện khuôn mặt và gắn mặt nạ trên thiết bị",
+            "Ghi nhớ cài đặt, tệp gần đây và tùy chọn trình chỉnh sửa",
+            "Hiển thị quảng cáo tùy chọn ở bản miễn phí",
+            "Xử lý mua trong ứng dụng qua Google Play",
+            "Phản hồi yêu cầu hỗ trợ bạn gửi cho chúng tôi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dịch vụ bên thứ ba",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "PlatePrivacy tích hợp dịch vụ do bên thứ ba vận hành:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Appodeal</strong> (bản miễn phí) — trung gian quảng cáo. Xem <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>.",
+            "<strong>Google Play Billing</strong> — mua PlatePrivacy Pro trong ứng dụng. Thanh toán do Google xử lý. Xem <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "Các nhà cung cấp này có thể xử lý dữ liệu ngoài quốc gia của bạn theo chính sách riêng của họ."
+        }
+      ]
+    },
+    {
+      "title": "Lưu trữ và giữ lại dữ liệu",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Tệp đã chỉnh, bộ nhớ đệm, ảnh thu nhỏ và cài đặt ở lại trên thiết bị cho đến khi bạn xóa hoặc gỡ ứng dụng. Chúng tôi không sao lưu đám mây media của bạn."
+        },
+        {
+          "type": "p",
+          "html": "Nếu bạn gửi email hỗ trợ, chúng tôi chỉ giữ thư trong thời gian cần để xử lý."
+        }
+      ]
+    },
+    {
+      "title": "Bảo mật",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Chúng tôi dùng biện pháp hợp lý để bảo vệ dữ liệu trên thiết bị. Không phương thức nào an toàn 100%."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ em",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "PlatePrivacy không dành cho trẻ dưới 13 tuổi (hoặc độ tuổi tối thiểu tại quốc gia bạn). Chúng tôi không cố ý thu thập thông tin cá nhân của trẻ."
+        }
+      ]
+    },
+    {
+      "title": "Quyền của bạn",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Tùy nơi bạn ở (ví dụ EU/EEA theo GDPR), bạn có thể có quyền truy cập, sửa, xóa, hạn chế hoặc phản đối xử lý dữ liệu cá nhân, và khiếu nại với cơ quan giám sát."
+        },
+        {
+          "type": "p",
+          "html": "Vì hầu hết dữ liệu ở trên thiết bị, bạn thường có thể xóa dữ liệu ứng dụng hoặc gỡ app. Dữ liệu quảng cáo: cài đặt quảng cáo Android và <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. Khác: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
+        }
+      ]
+    },
+    {
+      "title": "Thay đổi",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Chúng tôi có thể cập nhật chính sách. Ngày «Cập nhật lần cuối» sẽ thay đổi. Tiếp tục dùng ứng dụng sau thay đổi nghĩa là bạn chấp nhận."
+        }
+      ]
+    },
+    {
+      "title": "Liên hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Câu hỏi về chính sách này: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>"
+        }
+      ]
+    }
+  ]
+}

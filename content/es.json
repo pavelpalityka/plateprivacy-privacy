@@ -1,0 +1,174 @@
+{
+  "title": "Política de privacidad — PlatePrivacy",
+  "updatedLabel": "Última actualización: 8 de septiembre de 2026",
+  "footer": "© 2026 Pavel Palityka · PlatePrivacy",
+  "fallbackNotice": "",
+  "sections": [
+    {
+      "title": "Introducción",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Esta Política de privacidad explica cómo <strong>PlatePrivacy</strong> (la aplicación móvil «PlatePrivacy» / «PlatePrivacy Pro», paquete <code>com.palityka.plateprivacy</code>) trata la información cuando usa la app en Android."
+        },
+        {
+          "type": "p",
+          "html": "PlatePrivacy oculta matrículas en fotos y vídeos con desenfoque, pixelado o color sólido. El procesamiento se realiza <strong>en su dispositivo</strong>. La app <strong>no</strong> requiere una cuenta y <strong>no</strong> sube sus fotos o vídeos a nuestros servidores."
+        }
+      ]
+    },
+    {
+      "title": "Responsable del tratamiento",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "<strong>Responsable:</strong> Pavel Palityka<br><strong>Contacto:</strong> <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>"
+        }
+      ]
+    },
+    {
+      "title": "Información que procesa la aplicación",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Según cómo use PlatePrivacy, pueden tratarse las siguientes categorías de datos:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Fotos y vídeos en su dispositivo</strong> — archivos que elige, comparte o captura. Se leen y procesan localmente. No recibimos copias de estos medios.",
+            "<strong>Datos de detección facial</strong> — recuadros y metadatos solo en el dispositivo. Modelo ONNX local (LPD-YuNet). No se nos envían.",
+            "<strong>Ajustes y lista de recientes</strong> — tema, idioma, estilo de máscara y lista local de trabajos recientes en el dispositivo.",
+            "<strong>Captura con cámara</strong> — foto o vídeo con la cámara de la app se guarda en la caché del dispositivo para editar.",
+            "<strong>Estado de compra</strong> — si desbloqueó PlatePrivacy Pro con Google Play. Google verifica; en el dispositivo solo guardamos el indicador Pro.",
+            "<strong>Datos publicitarios (versión gratuita)</strong> — Appodeal y redes asociadas pueden recopilar GAID, IP y datos de interacción (ver Terceros)."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "<strong>No</strong> recopilamos conscientemente su nombre, correo o teléfono a través de la app, salvo que nos escriba por correo."
+        }
+      ]
+    },
+    {
+      "title": "Permisos de Android",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "La app puede solicitar los permisos necesarios para sus funciones:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Leer imágenes / vídeo</strong> — abrir fotos y vídeos seleccionados.",
+            "<strong>Cámara</strong> — captura opcional de foto o vídeo para editar.",
+            "<strong>Internet y estado de red</strong> — anuncios (versión gratuita) y Google Play.",
+            "<strong>Notificaciones y servicio en primer plano</strong> — progreso de trabajos largos y aviso al terminar.",
+            "<strong>ID de publicidad</strong> — usado por socios publicitarios (versión gratuita)."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "Puede revocar permisos en los ajustes de Android; algunas funciones pueden dejar de funcionar."
+        }
+      ]
+    },
+    {
+      "title": "Cómo usamos la información",
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "Detectar caras y aplicar máscaras en el dispositivo",
+            "Recordar ajustes, archivos recientes y preferencias del editor",
+            "Mostrar anuncios opcionales en la versión gratuita",
+            "Procesar compras in-app con Google Play",
+            "Responder a las solicitudes de soporte que nos envíe"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Servicios de terceros",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "PlatePrivacy integra servicios de terceros:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Appodeal</strong> (versión gratuita) — mediación publicitaria. Consulte <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>.",
+            "<strong>Google Play Billing</strong> — compras in-app de PlatePrivacy Pro. Google procesa los pagos. Consulte <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "Estos proveedores pueden tratar datos fuera de su país. Se rigen por sus propias políticas."
+        }
+      ]
+    },
+    {
+      "title": "Almacenamiento y retención",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Archivos editados, caché, miniaturas y ajustes permanecen en el dispositivo hasta que los borre o desinstale la app. No hay copia en la nube de sus medios."
+        },
+        {
+          "type": "p",
+          "html": "Si nos escribe para soporte, conservamos el mensaje solo el tiempo necesario."
+        }
+      ]
+    },
+    {
+      "title": "Seguridad",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Adoptamos medidas razonables para proteger los datos en el dispositivo. Ningún método es 100 % seguro."
+        }
+      ]
+    },
+    {
+      "title": "Niños",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "PlatePrivacy no está dirigido a menores de 13 años (o la edad mínima de su país)."
+        }
+      ]
+    },
+    {
+      "title": "Sus derechos",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Según su ubicación (p. ej. UE/EEE bajo el RGPD), puede tener derechos de acceso, rectificación, supresión, limitación u oposición, y de presentar una reclamación."
+        },
+        {
+          "type": "p",
+          "html": "Como la mayoría de datos están en el dispositivo, borre datos o desinstale. Para publicidad: ajustes de Android y <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. Otros: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
+        }
+      ]
+    },
+    {
+      "title": "Cambios",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Podemos actualizar esta política. Cambiará la fecha de «Última actualización». El uso continuado implica aceptación."
+        }
+      ]
+    },
+    {
+      "title": "Contacto",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Preguntas sobre esta política: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>"
+        }
+      ]
+    }
+  ]
+}

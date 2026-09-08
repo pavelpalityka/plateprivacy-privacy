@@ -1,0 +1,174 @@
+{
+  "title": "隐私政策 — PlatePrivacy",
+  "updatedLabel": "最后更新：2026年8月26日",
+  "footer": "© 2026 Pavel Palityka · PlatePrivacy",
+  "fallbackNotice": "",
+  "sections": [
+    {
+      "title": "简介",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "本隐私政策说明 <strong>PlatePrivacy</strong>（移动应用 “PlatePrivacy” / “PlatePrivacy Pro”，包名 <code>com.palityka.plateprivacy</code>）在 Android 上使用时如何处理信息。"
+        },
+        {
+          "type": "p",
+          "html": "PlatePrivacy 使用表情、色块、像素化或模糊来遮挡照片和视频中的面孔。处理在<strong>您的设备上</strong>完成。应用<strong>不需要</strong>账号，也<strong>不会</strong>将您的照片或视频上传到我们的服务器。"
+        }
+      ]
+    },
+    {
+      "title": "数据控制者",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "<strong>控制者：</strong> Pavel Palityka<br><strong>联系：</strong> <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>"
+        }
+      ]
+    },
+    {
+      "title": "应用处理的信息",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "根据您使用 PlatePrivacy 的方式，可能处理以下类别的数据："
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>设备上的照片和视频</strong> — 您选择、分享或拍摄的文件。在本地读取和处理。我们不会收到这些媒体的副本。",
+            "<strong>人脸检测数据</strong> — 仅在设备上编辑时使用的框与元数据。本地 ONNX 模型（LPD-YuNet）。不会发送给我们。",
+            "<strong>应用设置与最近列表</strong> — 主题、语言、表情、遮罩样式及设备上的最近任务列表。",
+            "<strong>相机拍摄</strong> — 应用内拍摄的照片或视频保存在设备缓存中以便编辑。",
+            "<strong>购买状态</strong> — 是否通过 Google Play 解锁 PlatePrivacy Pro。由 Google 验证；设备上仅保存 Pro 标志。",
+            "<strong>广告数据（免费版）</strong> — Appodeal 及其广告网络可能收集广告标识符（GAID）、IP 地址、设备与网络信息及广告互动数据（见第三方）。"
+          ]
+        },
+        {
+          "type": "p",
+          "html": "除非您主动发邮件联系我们，我们<strong>不会</strong>通过应用本身故意收集您的姓名、邮箱或电话。"
+        }
+      ]
+    },
+    {
+      "title": "Android 权限",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "应用可能请求其功能所需的权限："
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>读取图片/视频</strong> — 打开您选择的照片和视频。",
+            "<strong>相机</strong> — 可选拍摄新照片或视频以便编辑。",
+            "<strong>互联网与网络状态</strong> — 加载广告（免费版）并与 Google Play 通信以完成购买。",
+            "<strong>通知与前台服务</strong> — 后台长时间任务的进度，以及处理完成时的通知。",
+            "<strong>广告 ID</strong> — 免费版中广告合作方使用（见第三方）。"
+          ]
+        },
+        {
+          "type": "p",
+          "html": "可在 Android 系统设置中撤销权限；撤销后部分功能可能无法使用。"
+        }
+      ]
+    },
+    {
+      "title": "我们如何使用信息",
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "在设备上检测面孔并为照片/视频应用遮罩",
+            "记住设置、最近文件和编辑器偏好",
+            "在免费版中显示可选广告",
+            "通过 Google Play 处理应用内购买",
+            "回复您发送的支持请求"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "第三方服务",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "PlatePrivacy 集成了第三方运营的服务："
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Appodeal</strong>（免费版）— 广告中介。可能处理 IP、广告标识符与互动数据。详见 <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>。",
+            "<strong>Google Play Billing</strong> — PlatePrivacy Pro 应用内购买。付款由 Google 处理。详见 <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>。"
+          ]
+        },
+        {
+          "type": "p",
+          "html": "这些提供商可能在您所在国家/地区以外的服务器上处理数据，并受其各自政策约束。"
+        }
+      ]
+    },
+    {
+      "title": "数据存储与保留",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "编辑后的文件、缓存、缩略图和设置会保留在设备上，直到您删除、清除应用数据或卸载应用。我们不做云端媒体备份。"
+        },
+        {
+          "type": "p",
+          "html": "若您发邮件寻求支持，我们仅在处理请求所需期间保留该邮件。"
+        }
+      ]
+    },
+    {
+      "title": "安全",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "我们采取合理措施保护应用在设备上存储的数据。任何存储或传输方式都无法做到百分之百安全。"
+        }
+      ]
+    },
+    {
+      "title": "儿童",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "PlatePrivacy 不面向 13 岁以下儿童（或您所在国家/地区要求的最低年龄）。我们不会故意收集儿童的个人信息。"
+        }
+      ]
+    },
+    {
+      "title": "您的权利",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "根据您所在地（例如欧盟/欧洲经济区适用 GDPR），您可能享有访问、更正、删除、限制或反对处理个人数据的权利，并向监管机构投诉。"
+        },
+        {
+          "type": "p",
+          "html": "由于多数数据留在设备上，您通常可通过清除应用数据或卸载来行使权利。广告相关数据请使用 Android 广告设置并参阅 <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>。其他请求：<a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>。"
+        }
+      ]
+    },
+    {
+      "title": "变更",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "我们可能不时更新本政策。顶部的“最后更新”日期会随之变更。变更后继续使用即表示接受更新后的政策。"
+        }
+      ]
+    },
+    {
+      "title": "联系方式",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "有关本政策的问题：<a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>"
+        }
+      ]
+    }
+  ]
+}

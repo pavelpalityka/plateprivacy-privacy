@@ -1,0 +1,174 @@
+{
+  "title": "Pravila privatnosti — PlatePrivacy",
+  "updatedLabel": "Zadnja ažuriranja: 26. kolovoza 2026.",
+  "footer": "© 2026 Pavel Palityka · PlatePrivacy",
+  "fallbackNotice": "",
+  "sections": [
+    {
+      "title": "Uvod",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "This Privacy Policy explains how <strong>PlatePrivacy</strong> (the mobile application “PlatePrivacy” / “PlatePrivacy Pro”, package <code>com.palityka.plateprivacy</code>) processes information when you use the app on Android."
+        },
+        {
+          "type": "p",
+          "html": "PlatePrivacy blurs and masks license plates in photos and videos using blur, pixelation, or solid color. Processing runs <strong>on your device</strong>. The app does <strong>not</strong> require an account and does <strong>not</strong> upload your photos or videos to our servers."
+        }
+      ]
+    },
+    {
+      "title": "Voditelj obrade",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "<strong>Controller:</strong> Pavel Palityka<br><strong>Contact:</strong> <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>"
+        }
+      ]
+    },
+    {
+      "title": "Podaci koje obrađuje aplikacija",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Depending on how you use PlatePrivacy, the following categories of data may be processed:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Photos and videos on your device</strong> — files you pick, share into the app, or capture with the camera. They are read and processed locally to detect license plates and apply masks. Output files are saved where you choose (for example your gallery or a folder you select). We do not receive copies of this media.",
+            "<strong>License plate detection data</strong> — bounding boxes and related metadata used only during editing and video processing on the device. Plate detection uses a local ONNX model (LPD-YuNet). This data is not sent to us.",
+            "<strong>App settings and recent list</strong> — theme, language, cover style, and a local list of recent jobs stored on your device.",
+            "<strong>Camera capture</strong> — if you take a photo or video with the in-app camera, the file is stored in the app’s cache on your device for editing.",
+            "<strong>Purchase status</strong> — whether you unlocked PlatePrivacy Pro via Google Play in-app billing. Verification is handled by Google; we store only the Pro/unlock flag on your device.",
+            "<strong>Advertising data (free version)</strong> — if you use the free edition with ads, Appodeal and its mediated ad networks may collect your advertising identifier (GAID), IP address, device and network information, and ad interaction data (see Third parties)."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "We do <strong>not</strong> knowingly collect your name, email address, or phone number through the app itself unless you contact us by email."
+        }
+      ]
+    },
+    {
+      "title": "Android dopuštenja",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "The app may request permissions required for its features:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Read images / video</strong> — to open photos and videos you select (MediaStore and the system document picker).",
+            "<strong>Camera</strong> — optional capture of a new photo or video for editing.",
+            "<strong>Internet & network state</strong> — to load advertisements (free version) and to communicate with Google Play for purchases.",
+            "<strong>Notifications & foreground service</strong> — to show progress while a long job runs in the background, and to notify you when processing finishes.",
+            "<strong>Advertising ID</strong> — used by ad partners in the free version (see Third parties)."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "You can revoke permissions in Android system settings; some features may stop working if you do."
+        }
+      ]
+    },
+    {
+      "title": "Kako koristimo podatke",
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "Detect license plates and apply masks to photos and videos on your device",
+            "Remember your settings, recent files, and editor preferences",
+            "Show optional ads in the free version",
+            "Process in-app purchases through Google Play",
+            "Respond to support requests you send us"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Usluge trećih strana",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "PlatePrivacy integrates services operated by third parties:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Appodeal</strong> (free version) — advertising mediation. Appodeal and demand partners may process IP address, advertising identifier, and ad interaction data. See <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. You can limit ad personalization in your Google/Android ad settings.",
+            "<strong>Google Play Billing</strong> — in-app purchases for PlatePrivacy Pro. Payment and purchase records are processed by Google. See <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "These providers may process data on servers outside your country. Their use of data is governed by their own policies."
+        }
+      ]
+    },
+    {
+      "title": "Pohrana podataka",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Edited files, cache copies, thumbnails, and settings remain on your device until you delete them, clear app data, or uninstall the app. We do not operate a cloud backup of your media."
+        },
+        {
+          "type": "p",
+          "html": "If you email us for support, we keep your message only as long as needed to handle the request."
+        }
+      ]
+    },
+    {
+      "title": "Sigurnost",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "We use reasonable measures to protect data stored by the app on your device. No method of storage or transmission is 100% secure."
+        }
+      ]
+    },
+    {
+      "title": "Djeca",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "PlatePrivacy is not directed at children under 13 (or the minimum age required in your country). We do not knowingly collect personal information from children."
+        }
+      ]
+    },
+    {
+      "title": "Vaša prava",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Depending on your location (for example the EU/EEA under GDPR), you may have rights to access, rectify, erase, restrict, or object to processing of personal data, and to lodge a complaint with a supervisory authority."
+        },
+        {
+          "type": "p",
+          "html": "Because most data stays on your device, you can often exercise these rights by clearing app data or uninstalling the app. For advertising-related data, use Android ad settings and see the <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. Contact us at <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a> for other requests."
+        }
+      ]
+    },
+    {
+      "title": "Izmjene",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "We may update this policy from time to time. The “Last updated” date at the top will change when we do. Continued use of the app after changes means you accept the updated policy."
+        }
+      ]
+    },
+    {
+      "title": "Kontakt",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Questions about this policy: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>"
+        }
+      ]
+    }
+  ]
+}

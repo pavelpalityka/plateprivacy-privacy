@@ -1,0 +1,174 @@
+{
+  "title": "Politique de confidentialité — PlatePrivacy",
+  "updatedLabel": "Dernière mise à jour : 8 septembre 2026",
+  "footer": "© 2026 Pavel Palityka · PlatePrivacy",
+  "fallbackNotice": "",
+  "sections": [
+    {
+      "title": "Introduction",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "La présente politique de confidentialité explique comment <strong>PlatePrivacy</strong> (l’application mobile « PlatePrivacy » / « PlatePrivacy Pro », package <code>com.palityka.plateprivacy</code>) traite les informations lorsque vous utilisez l’application sur Android."
+        },
+        {
+          "type": "p",
+          "html": "PlatePrivacy masque les plaques d’immatriculation sur les photos et vidéos avec flou, de la pixellisation ou un flou. Le traitement s’effectue <strong>sur votre appareil</strong>. L’application <strong>ne nécessite pas</strong> de compte et <strong>n’envoie pas</strong> vos photos ou vidéos sur nos serveurs."
+        }
+      ]
+    },
+    {
+      "title": "Responsable du traitement",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "<strong>Responsable :</strong> Pavel Palityka<br><strong>Contact :</strong> <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>"
+        }
+      ]
+    },
+    {
+      "title": "Informations traitées par l’application",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Selon votre utilisation de PlatePrivacy, les catégories de données suivantes peuvent être traitées :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Photos et vidéos sur votre appareil</strong> — fichiers que vous choisissez, partagez ou capturez. Ils sont lus et traités localement. Nous ne recevons pas de copies.",
+            "<strong>Données de détection de visages</strong> — boîtes et métadonnées utilisées uniquement sur l’appareil. Modèle ONNX local (LPD-YuNet). Non envoyées chez nous.",
+            "<strong>Paramètres et liste des récents</strong> — thème, langue, style de masque et liste locale des travaux récents sur l’appareil.",
+            "<strong>Capture caméra</strong> — photo ou vidéo via la caméra de l’app stockée dans le cache de l’appareil pour l’édition.",
+            "<strong>Statut d’achat</strong> — si PlatePrivacy Pro est débloqué via Google Play. La vérification est faite par Google ; nous stockons uniquement le drapeau Pro.",
+            "<strong>Données publicitaires (version gratuite)</strong> — Appodeal et ses partenaires peuvent collecter le GAID, l’adresse IP et des données d’interaction (voir Tiers)."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "Nous ne collectons <strong>pas</strong> sciemment votre nom, e-mail ou téléphone via l’application elle-même, sauf si vous nous écrivez."
+        }
+      ]
+    },
+    {
+      "title": "Autorisations Android",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "L’application peut demander les autorisations nécessaires à ses fonctions :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Lire images / vidéos</strong> — ouvrir les photos et vidéos sélectionnées.",
+            "<strong>Caméra</strong> — capture facultative d’une photo ou vidéo pour l’édition.",
+            "<strong>Internet et état du réseau</strong> — publicités (version gratuite) et Google Play.",
+            "<strong>Notifications et service au premier plan</strong> — progression des traitements longs et fin de traitement.",
+            "<strong>Identifiant publicitaire</strong> — utilisé par les partenaires pub (version gratuite)."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "Vous pouvez retirer les autorisations dans les réglages Android ; certaines fonctions peuvent cesser de marcher."
+        }
+      ]
+    },
+    {
+      "title": "Comment nous utilisons les informations",
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "Détecter les visages et appliquer des masques sur l’appareil",
+            "Mémoriser les réglages, fichiers récents et préférences de l’éditeur",
+            "Afficher des publicités optionnelles dans la version gratuite",
+            "Traiter les achats in-app via Google Play",
+            "Répondre aux demandes d’assistance que vous nous envoyez"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Services tiers",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "PlatePrivacy intègre des services opérés par des tiers :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Appodeal</strong> (version gratuite) — médiation publicitaire. Voir <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>.",
+            "<strong>Google Play Billing</strong> — achats in-app PlatePrivacy Pro. Paiements traités par Google. Voir <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>."
+          ]
+        },
+        {
+          "type": "p",
+          "html": "Ces prestataires peuvent traiter des données hors de votre pays. Leur utilisation est régie par leurs propres politiques."
+        }
+      ]
+    },
+    {
+      "title": "Stockage et conservation",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Fichiers édités, cache, miniatures et réglages restent sur l’appareil jusqu’à suppression des données ou désinstallation. Nous n’avons pas de sauvegarde cloud de vos médias."
+        },
+        {
+          "type": "p",
+          "html": "Si vous nous écrivez pour le support, nous conservons le message uniquement le temps nécessaire."
+        }
+      ]
+    },
+    {
+      "title": "Sécurité",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Nous prenons des mesures raisonnables pour protéger les données sur l’appareil. Aucune méthode n’est sûre à 100 %."
+        }
+      ]
+    },
+    {
+      "title": "Enfants",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "PlatePrivacy ne s’adresse pas aux enfants de moins de 13 ans (ou l’âge minimum dans votre pays)."
+        }
+      ]
+    },
+    {
+      "title": "Vos droits",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Selon votre lieu de résidence (par ex. UE/EEE au titre du RGPD), vous pouvez avoir des droits d’accès, de rectification, d’effacement, de limitation ou d’opposition, et de réclamation auprès d’une autorité."
+        },
+        {
+          "type": "p",
+          "html": "La plupart des données restent sur l’appareil : effacez les données ou désinstallez. Pour la pub : réglages Android et <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. Autre : <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
+        }
+      ]
+    },
+    {
+      "title": "Modifications",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Nous pouvons mettre à jour cette politique. La date « Dernière mise à jour » changera. L’utilisation continue vaut acceptation."
+        }
+      ]
+    },
+    {
+      "title": "Contact",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Questions sur cette politique : <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>"
+        }
+      ]
+    }
+  ]
+}
