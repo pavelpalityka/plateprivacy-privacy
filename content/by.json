@@ -1,6 +1,6 @@
 {
   "title": "Палітыка прыватнасці — PlatePrivacy",
-  "updatedLabel": "Апошняе абнаўленне: 8 верасня 2026 г.",
+  "updatedLabel": "Апошняе абнаўленне: 28 верасня 2026 г.",
   "footer": "© 2026 Павел Палітка · PlatePrivacy",
   "fallbackNotice": "",
   "sections": [
@@ -41,7 +41,7 @@
             "<strong>Настройки и список недавних</strong> — тема, язык, стиль маски и локальный список недавних работ на устройстве.",
             "<strong>Съёмка камерой</strong> — фото или видео через камеру приложения сохраняется в кэше приложения на устройстве для редактирования.",
             "<strong>Статус покупки</strong> — разблокирован ли PlatePrivacy Pro через Google Play. Проверку выполняет Google; на устройстве хранится только флаг Pro.",
-            "<strong>Рекламные данные (бесплатная версия)</strong> — Appodeal и связанные сети могут собирать GAID, IP-адрес, сведения об устройстве и сети, а также данные о взаимодействии с рекламой (см. «Сторонние сервисы»)."
+            "<strong>Рекламные данные (бесплатная версия)</strong> — SDK Yandex Mobile Ads (Яндекс Рекламная сеть) может собирать GAID, IP-адрес, сведения об устройстве и сети, а также данные о взаимодействии с рекламой (см. «Сторонние сервисы»)."
           ]
         },
         {
@@ -98,7 +98,7 @@
         {
           "type": "ul",
           "items": [
-            "<strong>Appodeal</strong> (бесплатная версия) — медиация рекламы. Appodeal и партнёры могут обрабатывать IP-адрес, рекламный идентификатор и данные о взаимодействии с рекламой. См. <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. Ограничить персонализацию можно в настройках рекламы Google/Android.",
+            "<strong>Yandex Mobile Ads</strong> (бесплатная версия) — реклама Яндекс Рекламной сети. Яндекс и его рекламодатели могут обрабатывать IP-адрес, рекламный идентификатор и данные о взаимодействии с рекламой. См. <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>. Ограничить персонализацию можно в настройках рекламы Google/Android.",
             "<strong>Google Play Billing</strong> — покупки PlatePrivacy Pro. Платёж обрабатывает Google. См. <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>."
           ]
         },
@@ -148,7 +148,7 @@
         },
         {
           "type": "p",
-          "html": "Поскольку большая часть данных остаётся на устройстве, вы часто можете реализовать эти права, очистив данные приложения или удалив его. Для рекламы — настройки Android и <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. Иное: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
+          "html": "Поскольку большая часть данных остаётся на устройстве, вы часто можете реализовать эти права, очистив данные приложения или удалив его. Для рекламы — настройки Android и <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>. Иное: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
         }
       ]
     },

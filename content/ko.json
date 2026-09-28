@@ -1,6 +1,6 @@
 {
   "title": "개인정보 처리방침 — PlatePrivacy",
-  "updatedLabel": "최종 업데이트: 2026년 8월 26일",
+  "updatedLabel": "최종 업데이트: 2026년 9월 28일",
   "footer": "© 2026 Pavel Palityka · PlatePrivacy",
   "fallbackNotice": "",
   "sections": [
@@ -41,7 +41,7 @@
             "<strong>앱 설정 및 최근 목록</strong> — 테마, 언어, 이모지, 마스크 스타일, 기기의 최근 작업 목록.",
             "<strong>카메라 촬영</strong> — 앱 내 카메라로 찍은 사진·동영상은 편집을 위해 기기 캐시에 저장됩니다.",
             "<strong>구매 상태</strong> — Google Play로 PlatePrivacy Pro 잠금 해제 여부. 검증은 Google이 하며, 기기에는 Pro 플래그만 저장됩니다.",
-            "<strong>광고 데이터(무료 버전)</strong> — Appodeal 및 광고 네트워크가 GAID, IP, 기기·네트워크 정보, 광고 상호작용 데이터를 수집할 수 있습니다(제3자 참조)."
+            "<strong>광고 데이터(무료 버전)</strong> — Yandex Mobile Ads 및 광고 네트워크가 GAID, IP, 기기·네트워크 정보, 광고 상호작용 데이터를 수집할 수 있습니다(제3자 참조)."
           ]
         },
         {
@@ -98,7 +98,7 @@
         {
           "type": "ul",
           "items": [
-            "<strong>Appodeal</strong>(무료 버전) — 광고 미디에이션. 자세한 내용: <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>.",
+            "<strong>Yandex Mobile Ads</strong>(무료 버전) — Yandex 광고 네트워크의 광고. Yandex와 파트너가 IP, 광고 식별자, 광고 상호작용 데이터를 처리할 수 있습니다. 자세한 내용: <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>.",
             "<strong>Google Play Billing</strong> — PlatePrivacy Pro 인앱 결제. 결제는 Google이 처리. <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>"
           ]
         },
@@ -148,7 +148,7 @@
         },
         {
           "type": "p",
-          "html": "대부분 데이터가 기기에 있으므로 앱 데이터 삭제나 앱 삭제로 권리를 행사할 수 있습니다. 광고 관련은 Android 광고 설정과 <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. 기타: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
+          "html": "대부분 데이터가 기기에 있으므로 앱 데이터 삭제나 앱 삭제로 권리를 행사할 수 있습니다. 광고 관련은 Android 광고 설정과 <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>. 기타: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
         }
       ]
     },

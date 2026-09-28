@@ -1,6 +1,6 @@
 {
   "title": "Політика конфіденційності — PlatePrivacy",
-  "updatedLabel": "Останнє оновлення: 8 вересня 2026 р.",
+  "updatedLabel": "Останнє оновлення: 28 вересня 2026 р.",
   "footer": "© 2026 Pavel Palityka · PlatePrivacy",
   "fallbackNotice": "",
   "sections": [
@@ -41,7 +41,7 @@
             "<strong>Налаштування та список недавніх</strong> — тема, мова, емодзі, стиль маски та локальний список недавніх робіт на пристрої.",
             "<strong>Зйомка камерою</strong> — фото або відео через камеру застосунку зберігається в кеші на пристрої для редагування.",
             "<strong>Статус покупки</strong> — чи розблоковано PlatePrivacy Pro через Google Play; на пристрої зберігається лише прапорець Pro.",
-            "<strong>Рекламні дані (безкоштовна версія)</strong> — Appodeal і пов’язані мережі можуть збирати GAID, IP-адресу та дані про взаємодію з рекламою."
+            "<strong>Рекламні дані (безкоштовна версія)</strong> — SDK Yandex Mobile Ads (Мережа Яндекса з реклами) може збирати GAID, IP-адресу, відомості про пристрій і мережу та дані про взаємодію з рекламою."
           ]
         },
         {
@@ -98,7 +98,7 @@
         {
           "type": "ul",
           "items": [
-            "<strong>Appodeal</strong> (безкоштовна версія) — медіація реклами. Див. <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Політику конфіденційності Appodeal</a>.",
+            "<strong>Yandex Mobile Ads</strong> (безкоштовна версія) — реклама Мережі Яндекса з реклами. Яндекс і його рекламодавці можуть обробляти IP-адресу, рекламний ідентифікатор та дані про взаємодію з рекламою. Див. <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Політику конфіденційності Yandex Mobile Ads</a>.",
             "<strong>Google Play Billing</strong> — покупки PlatePrivacy Pro. Платіж обробляє Google."
           ]
         },
@@ -148,7 +148,7 @@
         },
         {
           "type": "p",
-          "html": "Оскільки більшість даних залишається на пристрої, ви можете очистити дані застосунку або видалити його. З питань реклами — <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Політику конфіденційності Appodeal</a>. Інше: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
+          "html": "Оскільки більшість даних залишається на пристрої, ви можете очистити дані застосунку або видалити його. З питань реклами — <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Політику конфіденційності Yandex Mobile Ads</a>. Інше: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
         }
       ]
     },

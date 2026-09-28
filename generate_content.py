@@ -16,17 +16,17 @@ LANGS = [
     "sl", "sr_Latn", "bs", "mk", "sq", "is", "ca", "ga", "mt", "zh_CN", "ja", "ko", "vi",
 ]
 
-APPODEAL = (
-    '<a href="https://www.appodeal.com/privacy-policy" rel="noopener">'
-    "Appodeal Privacy Policy</a>"
+YANDEX_ADS = (
+    '<a href="https://yandex.com/legal/international_ads_privacy/" rel="noopener">'
+    "Yandex Mobile Ads privacy policy</a>"
 )
-APPODEAL_RU = (
-    '<a href="https://www.appodeal.com/privacy-policy" rel="noopener">'
-    "Политику конфиденциальности Appodeal</a>"
+YANDEX_ADS_RU = (
+    '<a href="https://yandex.com/legal/international_ads_privacy/" rel="noopener">'
+    "Политику конфиденциальности Yandex Mobile Ads</a>"
 )
-APPODEAL_UK = (
-    '<a href="https://www.appodeal.com/privacy-policy" rel="noopener">'
-    "Політику конфіденційності Appodeal</a>"
+YANDEX_ADS_UK = (
+    '<a href="https://yandex.com/legal/international_ads_privacy/" rel="noopener">'
+    "Політику конфіденційності Yandex Mobile Ads</a>"
 )
 MAIL = '<a href="mailto:pavelpalityka@gmail.com">pavelpalityka@gmail.com</a>'
 GPLAY = (
@@ -95,45 +95,45 @@ TITLE = L(
 )
 
 UPDATED = L(
-    en="Last updated: 8 September 2026",
-    ru="Последнее обновление: 8 сентября 2026 г.",
-    uk="Останнє оновлення: 8 вересня 2026 р.",
-    by="Апошняе абнаўленне: 8 верасня 2026 г.",
-    de="Zuletzt aktualisiert: 8. September 2026",
-    fr="Dernière mise à jour : 8 septembre 2026",
-    es="Última actualización: 8 de septiembre de 2026",
-    it="Ultimo aggiornamento: 8 settembre 2026",
-    pt="Última atualização: 8 de septiembre de 2026",
-    nl="Laatst bijgewerkt: 8 september 2026",
-    pl="Ostatnia aktualizacja: 8 września 2026",
-    cs="Poslední aktualizace: 26. srpna 2026",
-    sk="Posledná aktualizácia: 26. augusta 2026",
-    hu="Utolsó frissítés: 2026. augusztus 26.",
-    ro="Ultima actualizare: 26 august 2026",
-    bg="Последна актуализация: 26 август 2026 г.",
-    el="Τελευταία ενημέρωση: 26 Αυγούστου 2026",
-    tr="Son güncelleme: 26 Ağustos 2026",
-    sv="Senast uppdaterad: 26 augusti 2026",
-    da="Senest opdateret: 26. august 2026",
-    nb="Sist oppdatert: 26. august 2026",
-    fi="Viimeksi päivitetty: 26. elokuuta 2026",
-    et="Viimati uuendatud: 26. august 2026",
-    lv="Pēdējoreiz atjaunināts: 2026. gada 26. augustā",
-    lt="Paskutinį kartą atnaujinta: 2026 m. rugpjūčio 26 d.",
-    hr="Zadnja ažuriranja: 26. kolovoza 2026.",
-    sl="Zadnja posodobitev: 26. avgust 2026",
-    sr_Latn="Poslednje ažuriranje: 26. avgust 2026.",
-    bs="Posljednje ažuriranje: 26. august 2026.",
-    mk="Последно ажурирање: 26 август 2026",
-    sq="Përditësuar së fundi: 26 gusht 2026",
-    is_="Síðast uppfært: 26. ágúst 2026",
-    ca="Darrera actualització: 26 d’agost de 2026",
-    ga="Nuashonraithe go deireanach: 26 Lúnasa 2026",
-    mt="Aġġornat l-aħħar: 26 ta’ Awwissu 2026",
-    zh_CN="最后更新：2026年8月26日",
-    ja="最終更新：2026年8月26日",
-    ko="최종 업데이트: 2026년 8월 26일",
-    vi="Cập nhật lần cuối: 26 tháng 8 năm 2026",
+    en="Last updated: 28 September 2026",
+    ru="Последнее обновление: 28 сентября 2026 г.",
+    uk="Останнє оновлення: 28 вересня 2026 р.",
+    by="Апошняе абнаўленне: 28 верасня 2026 г.",
+    de="Zuletzt aktualisiert: 28. September 2026",
+    fr="Dernière mise à jour : 28 septembre 2026",
+    es="Última actualización: 28 de septiembre de 2026",
+    it="Ultimo aggiornamento: 28 settembre 2026",
+    pt="Última atualização: 28 de setembro de 2026",
+    nl="Laatst bijgewerkt: 28 september 2026",
+    pl="Ostatnia aktualizacja: 28 września 2026",
+    cs="Poslední aktualizace: 28. září 2026",
+    sk="Posledná aktualizácia: 28. septembra 2026",
+    hu="Utolsó frissítés: 2026. szeptember 28.",
+    ro="Ultima actualizare: 28 septembrie 2026",
+    bg="Последна актуализация: 28 септември 2026 г.",
+    el="Τελευταία ενημέρωση: 28 Σεπτεμβρίου 2026",
+    tr="Son güncelleme: 28 Eylül 2026",
+    sv="Senast uppdaterad: 28 september 2026",
+    da="Senest opdateret: 28. september 2026",
+    nb="Sist oppdatert: 28. september 2026",
+    fi="Viimeksi päivitetty: 28. syyskuuta 2026",
+    et="Viimati uuendatud: 28. september 2026",
+    lv="Pēdējoreiz atjaunināts: 2026. gada 28. septembrī",
+    lt="Paskutinį kartą atnaujinta: 2026 m. rugsėjo 28 d.",
+    hr="Zadnja ažuriranja: 28. rujna 2026.",
+    sl="Zadnja posodobitev: 28. september 2026",
+    sr_Latn="Poslednje ažuriranje: 28. septembar 2026.",
+    bs="Posljednje ažuriranje: 28. septembar 2026.",
+    mk="Последно ажурирање: 28 септември 2026",
+    sq="Përditësuar së fundi: 28 shtator 2026",
+    is_="Síðast uppfært: 28. september 2026",
+    ca="Darrera actualització: 28 de setembre de 2026",
+    ga="Nuashonraithe go deireanach: 28 Mheán Fómhair 2026",
+    mt="Aġġornat l-aħħar: 28 ta’ Settembru 2026",
+    zh_CN="最后更新：2026年9月28日",
+    ja="最終更新：2026年9月28日",
+    ko="최종 업데이트: 2026년 9월 28일",
+    vi="Cập nhật lần cuối: 28 tháng 9 năm 2026",
 )
 
 FOOTER = L(
@@ -834,61 +834,62 @@ def build(lang: str) -> dict:
         )),
         t(lang, L(
             en=(
-                "<strong>Advertising data (free version)</strong> — if you use the free edition with ads, "
-                "Appodeal and its mediated ad networks may collect your advertising identifier (GAID), "
+                "<strong>Advertising data (free version)</strong> — the Yandex Mobile Ads SDK "
+                "(Yandex Advertising Network) may collect your advertising identifier (GAID), "
                 "IP address, device and network information, and ad interaction data (see Third parties)."
             ),
             ru=(
-                "<strong>Рекламные данные (бесплатная версия)</strong> — Appodeal и связанные сети могут "
-                "собирать GAID, IP-адрес, сведения об устройстве и сети, а также данные о взаимодействии "
-                "с рекламой (см. «Сторонние сервисы»)."
+                "<strong>Рекламные данные (бесплатная версия)</strong> — SDK Yandex Mobile Ads "
+                "(Яндекс Рекламная сеть) может собирать GAID, IP-адрес, сведения об устройстве "
+                "и сети, а также данные о взаимодействии с рекламой (см. «Сторонние сервисы»)."
             ),
             uk=(
-                "<strong>Рекламні дані (безкоштовна версія)</strong> — Appodeal і пов’язані мережі можуть "
-                "збирати GAID, IP-адресу та дані про взаємодію з рекламою."
+                "<strong>Рекламні дані (безкоштовна версія)</strong> — SDK Yandex Mobile Ads "
+                "(Мережа Яндекса з реклами) може збирати GAID, IP-адресу, відомості про пристрій "
+                "і мережу та дані про взаємодію з рекламою."
             ),
             de=(
-                "<strong>Werbedaten (Gratisversion)</strong> — Appodeal und Partner können GAID, "
+                "<strong>Werbedaten (Gratisversion)</strong> — Yandex Mobile Ads und Partner können GAID, "
                 "IP-Adresse sowie Geräte- und Interaktionsdaten erheben (siehe Drittanbieter)."
             ),
             fr=(
-                "<strong>Données publicitaires (version gratuite)</strong> — Appodeal et ses partenaires "
+                "<strong>Données publicitaires (version gratuite)</strong> — Yandex Mobile Ads et ses partenaires "
                 "peuvent collecter le GAID, l’adresse IP et des données d’interaction (voir Tiers)."
             ),
             es=(
-                "<strong>Datos publicitarios (versión gratuita)</strong> — Appodeal y redes asociadas "
+                "<strong>Datos publicitarios (versión gratuita)</strong> — Yandex Mobile Ads y redes asociadas "
                 "pueden recopilar GAID, IP y datos de interacción (ver Terceros)."
             ),
             it=(
-                "<strong>Dati pubblicitari (versione gratuita)</strong> — Appodeal e le reti mediate "
+                "<strong>Dati pubblicitari (versione gratuita)</strong> — Yandex Mobile Ads e le reti mediate "
                 "possono raccogliere GAID, IP e dati di interazione (vedi Terze parti)."
             ),
             pt=(
-                "<strong>Dados publicitários (versão gratuita)</strong> — Appodeal e redes mediadas "
+                "<strong>Dados publicitários (versão gratuita)</strong> — Yandex Mobile Ads e redes mediadas "
                 "podem recolher GAID, IP e dados de interação (ver Terceiros)."
             ),
             nl=(
-                "<strong>Advertentiegegevens (gratis versie)</strong> — Appodeal en partners kunnen "
+                "<strong>Advertentiegegevens (gratis versie)</strong> — Yandex Mobile Ads en partners kunnen "
                 "GAID, IP-adres en interactiegegevens verzamelen (zie Derden)."
             ),
             pl=(
-                "<strong>Dane reklamowe (wersja darmowa)</strong> — Appodeal i sieci partnerskie mogą "
+                "<strong>Dane reklamowe (wersja darmowa)</strong> — Yandex Mobile Ads i sieci partnerskie mogą "
                 "zbierać GAID, adres IP i dane interakcji (zob. Strony trzecie)."
             ),
             zh_CN=(
-                "<strong>广告数据（免费版）</strong> — Appodeal 及其广告网络可能收集广告标识符（GAID）、"
+                "<strong>广告数据（免费版）</strong> — Yandex Mobile Ads 及其广告网络可能收集广告标识符（GAID）、"
                 "IP 地址、设备与网络信息及广告互动数据（见第三方）。"
             ),
             ja=(
-                "<strong>広告データ（無料版）</strong> — Appodeal および配信ネットワークが GAID、"
+                "<strong>広告データ（無料版）</strong> — Yandex Mobile Ads および配信ネットワークが GAID、"
                 "IP、端末・ネットワーク情報、広告操作データを収集する場合があります（第三者参照）。"
             ),
             ko=(
-                "<strong>광고 데이터(무료 버전)</strong> — Appodeal 및 광고 네트워크가 GAID, IP, "
+                "<strong>광고 데이터(무료 버전)</strong> — Yandex Mobile Ads 및 광고 네트워크가 GAID, IP, "
                 "기기·네트워크 정보, 광고 상호작용 데이터를 수집할 수 있습니다(제3자 참조)."
             ),
             vi=(
-                "<strong>Dữ liệu quảng cáo (bản miễn phí)</strong> — Appodeal và mạng quảng cáo có thể "
+                "<strong>Dữ liệu quảng cáo (bản miễn phí)</strong> — Yandex Mobile Ads và mạng quảng cáo có thể "
                 "thu thập GAID, IP và dữ liệu tương tác quảng cáo (xem Bên thứ ba)."
             ),
         )),
@@ -1161,57 +1162,81 @@ def build(lang: str) -> dict:
         vi="PlatePrivacy tích hợp dịch vụ do bên thứ ba vận hành:",
     ))
 
-    appodeal_link = APPODEAL_RU if lang == "ru" else (APPODEAL_UK if lang == "uk" else APPODEAL)
+    yandex_link = YANDEX_ADS_RU if lang == "ru" else (YANDEX_ADS_UK if lang == "uk" else YANDEX_ADS)
 
     items_third = [
         t(lang, L(
             en=(
-                f"<strong>Appodeal</strong> (free version) — advertising mediation. Appodeal and demand "
-                f"partners may process IP address, advertising identifier, and ad interaction data. "
-                f"See {appodeal_link}. You can limit ad personalization in your Google/Android ad settings."
+                f"<strong>Yandex Mobile Ads</strong> (free version) — advertising by the Yandex "
+                f"Advertising Network. Yandex and its demand partners may process IP address, "
+                f"advertising identifier, and ad interaction data. See {yandex_link}. You can limit "
+                f"ad personalization in your Google/Android ad settings."
             ),
             ru=(
-                f"<strong>Appodeal</strong> (бесплатная версия) — медиация рекламы. Appodeal и партнёры "
-                f"могут обрабатывать IP-адрес, рекламный идентификатор и данные о взаимодействии с рекламой. "
-                f"См. {appodeal_link}. Ограничить персонализацию можно в настройках рекламы Google/Android."
+                f"<strong>Yandex Mobile Ads</strong> (бесплатная версия) — реклама Яндекс Рекламной "
+                f"сети. Яндекс и его рекламодатели могут обрабатывать IP-адрес, рекламный "
+                f"идентификатор и данные о взаимодействии с рекламой. См. {yandex_link}. Ограничить "
+                f"персонализацию можно в настройках рекламы Google/Android."
             ),
             uk=(
-                f"<strong>Appodeal</strong> (безкоштовна версія) — медіація реклами. Див. {appodeal_link}."
+                f"<strong>Yandex Mobile Ads</strong> (безкоштовна версія) — реклама Мережі Яндекса "
+                f"з реклами. Яндекс і його рекламодавці можуть обробляти IP-адресу, рекламний "
+                f"ідентифікатор та дані про взаємодію з рекламою. Див. {yandex_link}."
             ),
             de=(
-                f"<strong>Appodeal</strong> (Gratisversion) — Werbemediation. Appodeal und Partner können "
-                f"IP-Adresse, Werbe-ID und Interaktionsdaten verarbeiten. Siehe {appodeal_link}."
+                f"<strong>Yandex Mobile Ads</strong> (Gratisversion) — Werbung des Yandex "
+                f"Advertising Network. Yandex und Werbepartner können IP-Adresse, Werbe-ID und "
+                f"Interaktionsdaten verarbeiten. Siehe {yandex_link}."
             ),
             fr=(
-                f"<strong>Appodeal</strong> (version gratuite) — médiation publicitaire. Voir {appodeal_link}."
+                f"<strong>Yandex Mobile Ads</strong> (version gratuite) — publicité du réseau "
+                f"Yandex. Yandex et ses partenaires peuvent traiter l’adresse IP, "
+                f"l’identifiant publicitaire et les données d’interaction. Voir {yandex_link}."
             ),
             es=(
-                f"<strong>Appodeal</strong> (versión gratuita) — mediación publicitaria. Consulte {appodeal_link}."
+                f"<strong>Yandex Mobile Ads</strong> (versión gratuita) — publicidad de la red de "
+                f"Yandex. Yandex y sus socios pueden tratar la dirección IP, el identificador "
+                f"publicitario y los datos de interacción. Consulte {yandex_link}."
             ),
             it=(
-                f"<strong>Appodeal</strong> (versione gratuita) — mediazione pubblicitaria. Vedi {appodeal_link}."
+                f"<strong>Yandex Mobile Ads</strong> (versione gratuita) — pubblicità della rete "
+                f"Yandex. Yandex e i suoi partner possono elaborare IP, identificatore pubblicitario "
+                f"e dati di interazione. Vedi {yandex_link}."
             ),
             pt=(
-                f"<strong>Appodeal</strong> (versão gratuita) — mediação publicitária. Ver {appodeal_link}."
+                f"<strong>Yandex Mobile Ads</strong> (versão gratuita) — publicidade da rede "
+                f"Yandex. A Yandex e parceiros podem processar IP, identificador de publicidade e "
+                f"dados de interação. Ver {yandex_link}."
             ),
             nl=(
-                f"<strong>Appodeal</strong> (gratis versie) — advertentiemediatie. Zie {appodeal_link}."
+                f"<strong>Yandex Mobile Ads</strong> (gratis versie) — advertenties van het "
+                f"Yandex-advertentienetwerk. Yandex en partners kunnen IP-adres, advertentie-ID en "
+                f"interactiegegevens verwerken. Zie {yandex_link}."
             ),
             pl=(
-                f"<strong>Appodeal</strong> (wersja darmowa) — mediacja reklamowa. Zobacz {appodeal_link}."
+                f"<strong>Yandex Mobile Ads</strong> (wersja darmowa) — reklamy sieci Yandex. "
+                f"Yandex i partnerzy mogą przetwarzać adres IP, identyfikator reklamowy i dane "
+                f"interakcji. Zobacz {yandex_link}."
             ),
             zh_CN=(
-                f"<strong>Appodeal</strong>（免费版）— 广告中介。可能处理 IP、广告标识符与互动数据。"
-                f"详见 {appodeal_link}。"
+                f"<strong>Yandex Mobile Ads</strong>（免费版）— Yandex 广告网络的广告。"
+                f"Yandex 及其需求方合作伙伴可能处理 IP 地址、广告标识符与互动数据。"
+                f"详见 {yandex_link}。"
             ),
             ja=(
-                f"<strong>Appodeal</strong>（無料版）— 広告メディエーション。詳細は {appodeal_link}。"
+                f"<strong>Yandex Mobile Ads</strong>（無料版）— Yandex 広告ネットワークの広告。"
+                f"Yandex とそのパートナーが IP、広告識別子、広告操作データを処理する場合があります。"
+                f"詳細は {yandex_link}。"
             ),
             ko=(
-                f"<strong>Appodeal</strong>(무료 버전) — 광고 미디에이션. 자세한 내용: {appodeal_link}."
+                f"<strong>Yandex Mobile Ads</strong>(무료 버전) — Yandex 광고 네트워크의 광고. "
+                f"Yandex와 파트너가 IP, 광고 식별자, 광고 상호작용 데이터를 처리할 수 있습니다. "
+                f"자세한 내용: {yandex_link}."
             ),
             vi=(
-                f"<strong>Appodeal</strong> (bản miễn phí) — trung gian quảng cáo. Xem {appodeal_link}."
+                f"<strong>Yandex Mobile Ads</strong> (bản miễn phí) — quảng cáo của mạng Yandex. "
+                f"Yandex và đối tác có thể xử lý IP, định danh quảng cáo và dữ liệu tương tác. "
+                f"Xem {yandex_link}."
             ),
         )),
         t(lang, L(
@@ -1445,61 +1470,61 @@ def build(lang: str) -> dict:
         en=(
             f"Because most data stays on your device, you can often exercise these rights by clearing "
             f"app data or uninstalling the app. For advertising-related data, use Android ad settings "
-            f"and see the {appodeal_link}. Contact us at {MAIL} for other requests."
+            f"and see the {yandex_link}. Contact us at {MAIL} for other requests."
         ),
         ru=(
             f"Поскольку большая часть данных остаётся на устройстве, вы часто можете реализовать эти "
             f"права, очистив данные приложения или удалив его. Для рекламы — настройки Android и "
-            f"{appodeal_link}. Иное: {MAIL}."
+            f"{yandex_link}. Иное: {MAIL}."
         ),
         uk=(
             f"Оскільки більшість даних залишається на пристрої, ви можете очистити дані застосунку або "
-            f"видалити його. З питань реклами — {appodeal_link}. Інше: {MAIL}."
+            f"видалити його. З питань реклами — {yandex_link}. Інше: {MAIL}."
         ),
         de=(
             f"Da die meisten Daten auf dem Gerät bleiben, können Sie Rechte oft durch Löschen der "
             f"App-Daten oder Deinstallation ausüben. Für Werbung: Android-Einstellungen und "
-            f"{appodeal_link}. Sonstiges: {MAIL}."
+            f"{yandex_link}. Sonstiges: {MAIL}."
         ),
         fr=(
             f"La plupart des données restent sur l’appareil : effacez les données ou désinstallez. "
-            f"Pour la pub : réglages Android et {appodeal_link}. Autre : {MAIL}."
+            f"Pour la pub : réglages Android et {yandex_link}. Autre : {MAIL}."
         ),
         es=(
             f"Como la mayoría de datos están en el dispositivo, borre datos o desinstale. Para "
-            f"publicidad: ajustes de Android y {appodeal_link}. Otros: {MAIL}."
+            f"publicidad: ajustes de Android y {yandex_link}. Otros: {MAIL}."
         ),
         it=(
             f"Poiché la maggior parte dei dati resta sul dispositivo, puoi cancellare i dati o "
-            f"disinstallare. Per gli annunci: impostazioni Android e {appodeal_link}. Altro: {MAIL}."
+            f"disinstallare. Per gli annunci: impostazioni Android e {yandex_link}. Altro: {MAIL}."
         ),
         pt=(
             f"Como a maioria dos dados fica no dispositivo, limpe os dados ou desinstale. Para anúncios: "
-            f"definições Android e {appodeal_link}. Outro: {MAIL}."
+            f"definições Android e {yandex_link}. Outro: {MAIL}."
         ),
         nl=(
             f"Omdat de meeste gegevens op het apparaat blijven, kunt u app-gegevens wissen of "
-            f"deïnstalleren. Voor advertenties: Android-instellingen en {appodeal_link}. Anders: {MAIL}."
+            f"deïnstalleren. Voor advertenties: Android-instellingen en {yandex_link}. Anders: {MAIL}."
         ),
         pl=(
             f"Ponieważ większość danych jest na urządzeniu, często wystarczy wyczyścić dane lub "
-            f"odinstalować aplikację. Reklamy: ustawienia Androida i {appodeal_link}. Inne: {MAIL}."
+            f"odinstalować aplikację. Reklamy: ustawienia Androida i {yandex_link}. Inne: {MAIL}."
         ),
         zh_CN=(
             f"由于多数数据留在设备上，您通常可通过清除应用数据或卸载来行使权利。广告相关数据请使用 "
-            f"Android 广告设置并参阅 {appodeal_link}。其他请求：{MAIL}。"
+            f"Android 广告设置并参阅 {yandex_link}。其他请求：{MAIL}。"
         ),
         ja=(
             f"データの多くは端末に残るため、アプリデータの消去やアンインストールで権利を行使できることが"
-            f"多いです。広告関連は Android の広告設定と {appodeal_link}。その他：{MAIL}。"
+            f"多いです。広告関連は Android の広告設定と {yandex_link}。その他：{MAIL}。"
         ),
         ko=(
             f"대부분 데이터가 기기에 있으므로 앱 데이터 삭제나 앱 삭제로 권리를 행사할 수 있습니다. "
-            f"광고 관련은 Android 광고 설정과 {appodeal_link}. 기타: {MAIL}."
+            f"광고 관련은 Android 광고 설정과 {yandex_link}. 기타: {MAIL}."
         ),
         vi=(
             f"Vì hầu hết dữ liệu ở trên thiết bị, bạn thường có thể xóa dữ liệu ứng dụng hoặc gỡ app. "
-            f"Dữ liệu quảng cáo: cài đặt quảng cáo Android và {appodeal_link}. Khác: {MAIL}."
+            f"Dữ liệu quảng cáo: cài đặt quảng cáo Android và {yandex_link}. Khác: {MAIL}."
         ),
     ))
 

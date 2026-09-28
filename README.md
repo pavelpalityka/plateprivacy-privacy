@@ -21,8 +21,8 @@ Static multilingual privacy policy for **Google Play Console** and the in-app **
 2. In Play Console → **App content** → **Privacy policy**, paste that URL.
 3. The app uses `https://pavelpalityka.github.io/plateprivacy-privacy/` in `AppSettings::privacyPolicyUrl()`.
 
-Required because PlatePrivacy may use **Appodeal** advertising and **Google Play Billing**.
-The policy mentions **IP address** and **advertising identifier (GAID)** and links to [Appodeal’s privacy policy](https://www.appodeal.com/privacy-policy).
+Required because PlatePrivacy may use **Yandex Mobile Ads** advertising and **Google Play Billing**.
+The policy mentions **IP address** and **advertising identifier (GAID)** and links to [Yandex Mobile Ads privacy policy](https://yandex.com/legal/international_ads_privacy/).
 
 ## app-ads.txt
 

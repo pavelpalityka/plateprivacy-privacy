@@ -1,6 +1,6 @@
 {
   "title": "Privacybeleid — PlatePrivacy",
-  "updatedLabel": "Laatst bijgewerkt: 8 september 2026",
+  "updatedLabel": "Laatst bijgewerkt: 28 september 2026",
   "footer": "© 2026 Pavel Palityka · PlatePrivacy",
   "fallbackNotice": "",
   "sections": [
@@ -41,7 +41,7 @@
             "<strong>Instellingen en recente lijst</strong> — thema, taal, maskerstijl en lokale lijst van recente taken op het apparaat.",
             "<strong>Camera-opname</strong> — foto of video via de in-app-camera wordt in de cache op het apparaat bewaard om te bewerken.",
             "<strong>Aankoopstatus</strong> — of PlatePrivacy Pro via Google Play is ontgrendeld. Google verifieert; op het apparaat bewaren we alleen de Pro-vlag.",
-            "<strong>Advertentiegegevens (gratis versie)</strong> — Appodeal en partners kunnen GAID, IP-adres en interactiegegevens verzamelen (zie Derden)."
+            "<strong>Advertentiegegevens (gratis versie)</strong> — Yandex Mobile Ads en partners kunnen GAID, IP-adres en interactiegegevens verzamelen (zie Derden)."
           ]
         },
         {
@@ -98,7 +98,7 @@
         {
           "type": "ul",
           "items": [
-            "<strong>Appodeal</strong> (gratis versie) — advertentiemediatie. Zie <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>.",
+            "<strong>Yandex Mobile Ads</strong> (gratis versie) — advertenties van het Yandex-advertentienetwerk. Yandex en partners kunnen IP-adres, advertentie-ID en interactiegegevens verwerken. Zie <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>.",
             "<strong>Google Play Billing</strong> — in-app-aankopen PlatePrivacy Pro. Betalingen via Google. Zie <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>."
           ]
         },
@@ -148,7 +148,7 @@
         },
         {
           "type": "p",
-          "html": "Omdat de meeste gegevens op het apparaat blijven, kunt u app-gegevens wissen of deïnstalleren. Voor advertenties: Android-instellingen en <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. Anders: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
+          "html": "Omdat de meeste gegevens op het apparaat blijven, kunt u app-gegevens wissen of deïnstalleren. Voor advertenties: Android-instellingen en <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>. Anders: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "title": "Política de privacidad — PlatePrivacy",
-  "updatedLabel": "Última actualización: 8 de septiembre de 2026",
+  "updatedLabel": "Última actualización: 28 de septiembre de 2026",
   "footer": "© 2026 Pavel Palityka · PlatePrivacy",
   "fallbackNotice": "",
   "sections": [
@@ -41,7 +41,7 @@
             "<strong>Ajustes y lista de recientes</strong> — tema, idioma, estilo de máscara y lista local de trabajos recientes en el dispositivo.",
             "<strong>Captura con cámara</strong> — foto o vídeo con la cámara de la app se guarda en la caché del dispositivo para editar.",
             "<strong>Estado de compra</strong> — si desbloqueó PlatePrivacy Pro con Google Play. Google verifica; en el dispositivo solo guardamos el indicador Pro.",
-            "<strong>Datos publicitarios (versión gratuita)</strong> — Appodeal y redes asociadas pueden recopilar GAID, IP y datos de interacción (ver Terceros)."
+            "<strong>Datos publicitarios (versión gratuita)</strong> — Yandex Mobile Ads y redes asociadas pueden recopilar GAID, IP y datos de interacción (ver Terceros)."
           ]
         },
         {
@@ -98,7 +98,7 @@
         {
           "type": "ul",
           "items": [
-            "<strong>Appodeal</strong> (versión gratuita) — mediación publicitaria. Consulte <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>.",
+            "<strong>Yandex Mobile Ads</strong> (versión gratuita) — publicidad de la red de Yandex. Yandex y sus socios pueden tratar la dirección IP, el identificador publicitario y los datos de interacción. Consulte <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>.",
             "<strong>Google Play Billing</strong> — compras in-app de PlatePrivacy Pro. Google procesa los pagos. Consulte <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>."
           ]
         },
@@ -148,7 +148,7 @@
         },
         {
           "type": "p",
-          "html": "Como la mayoría de datos están en el dispositivo, borre datos o desinstale. Para publicidad: ajustes de Android y <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. Otros: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
+          "html": "Como la mayoría de datos están en el dispositivo, borre datos o desinstale. Para publicidad: ajustes de Android y <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>. Otros: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "title": "プライバシーポリシー — PlatePrivacy",
-  "updatedLabel": "最終更新：2026年8月26日",
+  "updatedLabel": "最終更新：2026年9月28日",
   "footer": "© 2026 Pavel Palityka · PlatePrivacy",
   "fallbackNotice": "",
   "sections": [
@@ -41,7 +41,7 @@
             "<strong>設定と最近の一覧</strong> — テーマ、言語、絵文字、マスクスタイル、端末上の最近の作業一覧。",
             "<strong>カメラ撮影</strong> — アプリ内カメラで撮った写真・動画は編集用に端末キャッシュに保存されます。",
             "<strong>購入状態</strong> — Google Play 経由で PlatePrivacy Pro を解除したか。検証は Google、端末には Pro フラグのみ保存。",
-            "<strong>広告データ（無料版）</strong> — Appodeal および配信ネットワークが GAID、IP、端末・ネットワーク情報、広告操作データを収集する場合があります（第三者参照）。"
+            "<strong>広告データ（無料版）</strong> — Yandex Mobile Ads および配信ネットワークが GAID、IP、端末・ネットワーク情報、広告操作データを収集する場合があります（第三者参照）。"
           ]
         },
         {
@@ -98,7 +98,7 @@
         {
           "type": "ul",
           "items": [
-            "<strong>Appodeal</strong>（無料版）— 広告メディエーション。詳細は <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>。",
+            "<strong>Yandex Mobile Ads</strong>（無料版）— Yandex 広告ネットワークの広告。Yandex とそのパートナーが IP、広告識別子、広告操作データを処理する場合があります。詳細は <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>。",
             "<strong>Google Play Billing</strong> — PlatePrivacy Pro のアプリ内課金。支払いは Google が処理。<a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>"
           ]
         },
@@ -148,7 +148,7 @@
         },
         {
           "type": "p",
-          "html": "データの多くは端末に残るため、アプリデータの消去やアンインストールで権利を行使できることが多いです。広告関連は Android の広告設定と <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>。その他：<a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>。"
+          "html": "データの多くは端末に残るため、アプリデータの消去やアンインストールで権利を行使できることが多いです。広告関連は Android の広告設定と <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>。その他：<a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>。"
         }
       ]
     },

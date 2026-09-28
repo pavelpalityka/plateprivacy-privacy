@@ -1,6 +1,6 @@
 {
   "title": "Chính sách quyền riêng tư — PlatePrivacy",
-  "updatedLabel": "Cập nhật lần cuối: 26 tháng 8 năm 2026",
+  "updatedLabel": "Cập nhật lần cuối: 28 tháng 9 năm 2026",
   "footer": "© 2026 Pavel Palityka · PlatePrivacy",
   "fallbackNotice": "",
   "sections": [
@@ -41,7 +41,7 @@
             "<strong>Cài đặt và danh sách gần đây</strong> — chủ đề, ngôn ngữ, kiểu mặt nạ và danh sách công việc gần đây trên thiết bị.",
             "<strong>Chụp/quay bằng camera</strong> — ảnh hoặc video từ camera trong app được lưu trong bộ nhớ đệm thiết bị để chỉnh sửa.",
             "<strong>Trạng thái mua</strong> — đã mở PlatePrivacy Pro qua Google Play hay chưa. Google xác minh; trên thiết bị chỉ lưu cờ Pro.",
-            "<strong>Dữ liệu quảng cáo (bản miễn phí)</strong> — Appodeal và mạng quảng cáo có thể thu thập GAID, IP và dữ liệu tương tác quảng cáo (xem Bên thứ ba)."
+            "<strong>Dữ liệu quảng cáo (bản miễn phí)</strong> — Yandex Mobile Ads và mạng quảng cáo có thể thu thập GAID, IP và dữ liệu tương tác quảng cáo (xem Bên thứ ba)."
           ]
         },
         {
@@ -98,7 +98,7 @@
         {
           "type": "ul",
           "items": [
-            "<strong>Appodeal</strong> (bản miễn phí) — trung gian quảng cáo. Xem <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>.",
+            "<strong>Yandex Mobile Ads</strong> (bản miễn phí) — quảng cáo của mạng Yandex. Yandex và đối tác có thể xử lý IP, định danh quảng cáo và dữ liệu tương tác. Xem <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>.",
             "<strong>Google Play Billing</strong> — mua PlatePrivacy Pro trong ứng dụng. Thanh toán do Google xử lý. Xem <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>."
           ]
         },
@@ -148,7 +148,7 @@
         },
         {
           "type": "p",
-          "html": "Vì hầu hết dữ liệu ở trên thiết bị, bạn thường có thể xóa dữ liệu ứng dụng hoặc gỡ app. Dữ liệu quảng cáo: cài đặt quảng cáo Android và <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. Khác: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
+          "html": "Vì hầu hết dữ liệu ở trên thiết bị, bạn thường có thể xóa dữ liệu ứng dụng hoặc gỡ app. Dữ liệu quảng cáo: cài đặt quảng cáo Android và <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>. Khác: <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>."
         }
       ]
     },

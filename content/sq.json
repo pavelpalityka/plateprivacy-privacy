@@ -1,6 +1,6 @@
 {
   "title": "Politika e privatësisë — PlatePrivacy",
-  "updatedLabel": "Përditësuar së fundi: 26 gusht 2026",
+  "updatedLabel": "Përditësuar së fundi: 28 shtator 2026",
   "footer": "© 2026 Pavel Palityka · PlatePrivacy",
   "fallbackNotice": "",
   "sections": [
@@ -41,7 +41,7 @@
             "<strong>App settings and recent list</strong> — theme, language, cover style, and a local list of recent jobs stored on your device.",
             "<strong>Camera capture</strong> — if you take a photo or video with the in-app camera, the file is stored in the app’s cache on your device for editing.",
             "<strong>Purchase status</strong> — whether you unlocked PlatePrivacy Pro via Google Play in-app billing. Verification is handled by Google; we store only the Pro/unlock flag on your device.",
-            "<strong>Advertising data (free version)</strong> — if you use the free edition with ads, Appodeal and its mediated ad networks may collect your advertising identifier (GAID), IP address, device and network information, and ad interaction data (see Third parties)."
+            "<strong>Advertising data (free version)</strong> — the Yandex Mobile Ads SDK (Yandex Advertising Network) may collect your advertising identifier (GAID), IP address, device and network information, and ad interaction data (see Third parties)."
           ]
         },
         {
@@ -98,7 +98,7 @@
         {
           "type": "ul",
           "items": [
-            "<strong>Appodeal</strong> (free version) — advertising mediation. Appodeal and demand partners may process IP address, advertising identifier, and ad interaction data. See <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. You can limit ad personalization in your Google/Android ad settings.",
+            "<strong>Yandex Mobile Ads</strong> (free version) — advertising by the Yandex Advertising Network. Yandex and its demand partners may process IP address, advertising identifier, and ad interaction data. See <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>. You can limit ad personalization in your Google/Android ad settings.",
             "<strong>Google Play Billing</strong> — in-app purchases for PlatePrivacy Pro. Payment and purchase records are processed by Google. See <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>."
           ]
         },
@@ -148,7 +148,7 @@
         },
         {
           "type": "p",
-          "html": "Because most data stays on your device, you can often exercise these rights by clearing app data or uninstalling the app. For advertising-related data, use Android ad settings and see the <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>. Contact us at <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a> for other requests."
+          "html": "Because most data stays on your device, you can often exercise these rights by clearing app data or uninstalling the app. For advertising-related data, use Android ad settings and see the <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>. Contact us at <a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a> for other requests."
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "title": "隐私政策 — PlatePrivacy",
-  "updatedLabel": "最后更新：2026年8月26日",
+  "updatedLabel": "最后更新：2026年9月28日",
   "footer": "© 2026 Pavel Palityka · PlatePrivacy",
   "fallbackNotice": "",
   "sections": [
@@ -41,7 +41,7 @@
             "<strong>应用设置与最近列表</strong> — 主题、语言、表情、遮罩样式及设备上的最近任务列表。",
             "<strong>相机拍摄</strong> — 应用内拍摄的照片或视频保存在设备缓存中以便编辑。",
             "<strong>购买状态</strong> — 是否通过 Google Play 解锁 PlatePrivacy Pro。由 Google 验证；设备上仅保存 Pro 标志。",
-            "<strong>广告数据（免费版）</strong> — Appodeal 及其广告网络可能收集广告标识符（GAID）、IP 地址、设备与网络信息及广告互动数据（见第三方）。"
+            "<strong>广告数据（免费版）</strong> — Yandex Mobile Ads 及其广告网络可能收集广告标识符（GAID）、IP 地址、设备与网络信息及广告互动数据（见第三方）。"
           ]
         },
         {
@@ -98,7 +98,7 @@
         {
           "type": "ul",
           "items": [
-            "<strong>Appodeal</strong>（免费版）— 广告中介。可能处理 IP、广告标识符与互动数据。详见 <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>。",
+            "<strong>Yandex Mobile Ads</strong>（免费版）— Yandex 广告网络的广告。Yandex 及其需求方合作伙伴可能处理 IP 地址、广告标识符与互动数据。详见 <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>。",
             "<strong>Google Play Billing</strong> — PlatePrivacy Pro 应用内购买。付款由 Google 处理。详见 <a href=\"https://payments.google.com/payments/apis-secure/get_legal_document?ldl=en_GB&amp;ldo=0&amp;ldt=buyertos\" rel=\"noopener\">Google Play Terms</a>。"
           ]
         },
@@ -148,7 +148,7 @@
         },
         {
           "type": "p",
-          "html": "由于多数数据留在设备上，您通常可通过清除应用数据或卸载来行使权利。广告相关数据请使用 Android 广告设置并参阅 <a href=\"https://www.appodeal.com/privacy-policy\" rel=\"noopener\">Appodeal Privacy Policy</a>。其他请求：<a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>。"
+          "html": "由于多数数据留在设备上，您通常可通过清除应用数据或卸载来行使权利。广告相关数据请使用 Android 广告设置并参阅 <a href=\"https://yandex.com/legal/international_ads_privacy/\" rel=\"noopener\">Yandex Mobile Ads privacy policy</a>。其他请求：<a href=\"mailto:pavelpalityka@gmail.com\">pavelpalityka@gmail.com</a>。"
         }
       ]
     },
